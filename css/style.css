@@ -1,0 +1,218 @@
+.rettangolo
+  
+ {
+    width: 425px;
+    height: 130px;
+    background: black;
+    
+  }
+
+.center{
+    width: 170px;
+    margin-top: 35px;
+    margin-inline: 120px;
+}
+
+.centro{
+  width: 430px;
+  height: 350px;
+  margin-top: 40px;
+}
+.font{
+ position: absolute;
+ top: 170px;
+ left: 125px;
+ margin-top: 10px;
+ font-size:35px;color: rgb(16, 168, 168);
+}
+.paragrafo{
+  position: absolute;
+ top: 275px;
+ left: 60px;
+ font-size:20px;
+}
+.paragrafo1{
+  position: absolute;
+ top: 305px;
+ left: 70px;
+ font-size:20px;
+}
+
+.paragrafo10{
+  position: absolute;
+  top: 335px;
+  left: 56px;
+  font-size:19px;
+}
+.paragrafo20{
+  position: absolute;
+  top: 365px;
+  left: 120px;
+  font-size:20px;
+}
+
+.bottone{
+  background-color: orangered;
+  position: absolute;
+ top: 400px;
+ left: 140px;
+ width:120px;
+ height: 40px;
+}
+.titolo{
+  margin-top: 10px;
+  margin-inline: 100px;
+  color: rgb(16, 168, 168);
+  font-size: 25px;
+  
+}
+.paragrafo2{
+  position: absolute;
+  top: 563px;
+  left: 60px;
+  font-size:20px;
+  
+}
+.paragrafo3{
+  position: absolute;
+  top: 595px;
+  left: 50px;
+  font-size:21px;
+}
+.paragrafo4{
+  position: absolute;
+  top: 630px;
+  left: 130px;
+  font-size:21px;
+}
+
+.titolo2{
+  margin-top: 130px;
+  margin-inline: 120px;
+  color: rgb(16, 168, 168);
+  font-size: 22px 
+}
+
+.par1{
+  position: absolute;
+  top: 715px;
+  left: 65px;
+  font-size:20px; 
+}
+.par2{
+  position: absolute;
+  top: 745px;
+  left: 155px;
+  font-size:20px; 
+}
+.cerchio{
+   position: absolute;
+   top: 795px;
+   left: 75px;
+   width: 260px;
+   height: 260px;
+   border-radius: 50%
+  }
+.titolo3{
+  margin-inline: 100px;
+  color: rgb(16, 168, 168);
+  font-size: 25px;
+  position: absolute;
+  top: 1100px;
+  left: 15px;
+}
+.para1{
+position: absolute;
+top: 1135px;
+left: 65px;
+font-size:20px; 
+}
+.para2{
+  position: absolute;
+  top: 1165px;
+  left: 126px;
+  font-size:20px;
+}
+.titolo4{
+  margin-inline: 100px;
+  color: rgb(16, 168, 168);
+  font-size: 25px;
+  position: absolute;
+  top: 1210px;
+  left: 20px;
+}
+.p1{
+  position: absolute;
+  top: 1245px;
+  left: 70px;
+  font-size:20px; 
+}
+.p2{
+  position: absolute;
+  top: 1271px;
+  left: 68px;
+  font-size:20px;  
+}
+.rettangolo2{
+ 
+   margin-top:600px;
+    left: 68px;
+    width: 800px;
+    height: 300px;
+    background: rgb(218, 61, 61);
+ }
+ .rosso{
+  
+  position: absolute;
+ top: 1398px;
+ left: 65px;
+ margin-top: 10px;
+ font-size:35px;color: rgb(255, 255, 255);
+ }
+ .p3{
+  position: absolute;
+  top: 1470px;
+  left: 65px;
+  font-size:16px; 
+  color: white; 
+ }
+ .p4{
+  position: absolute;
+  top: 1490px;
+  left: 120px;
+  font-size:16px;
+  color: rgb(255, 255, 255);  
+ }
+ .nome{
+  position: absolute;
+  top: 1555px;
+  left: 160px;
+  font-size:18px; 
+  color: white; 
+ }
+ .emon{
+  position: absolute;
+  top: 1585px;
+  left: 165px;
+  font-size:14px; 
+  color: rgb(255, 255, 255); 
+ }
+ .quad{
+  
+  position: absolute;
+   top: 1710px;
+   left: 33px;
+   width: 350px;
+   height: 250px;
+   border-radius: 0%
+ }
+.PC{
+  
+  margin-inline: 100px;
+  color: rgb(16, 168, 168);
+  font-size: 23px;
+  position: absolute;
+  top: 2000px;
+  left: 55px;
+  
+}
